@@ -1,5 +1,11 @@
+body{
+    font-family: 'Roboto', sans-serif;;
+}
+header{
+    height: 800px;
+}
 .backgroundCar{
-        background-image: url(./background.jpg);
+        background-image: url(./bg3.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 100%;
